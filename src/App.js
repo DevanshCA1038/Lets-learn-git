@@ -10,6 +10,8 @@ export default function App() {
       </div>
       <Intro rollno= '1910990061' name = 'Jajaja' pinkcolor ="pink"/>
       <h1>New commit</h1>
+      <h1>hbchusjenjknedjkndekkjndjvnfdkjn</h1>
+      <h1>jnvdjnvjnfdjnfdn</h1>
     </>
   );
 }
